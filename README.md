@@ -8,3 +8,6 @@ Matlib/
 │   ├── index.html        # Frontend HTML
 │
 └── requirements.txt      # List of required dependencies
+ put these in requirements.txt 
+ fastapi
+uvicorn
