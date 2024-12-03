@@ -11,3 +11,6 @@ Matlib/
  put these in requirements.txt 
  fastapi
 uvicorn
+now on your terminal
+type pip install -r requirements.txt
+ and press enter
