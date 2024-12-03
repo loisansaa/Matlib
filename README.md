@@ -14,3 +14,4 @@ uvicorn
 now on your terminal
 type pip install -r requirements.txt
  and press enter
+ finally type AND run uvicorn app.main:app --reload
